@@ -50,13 +50,13 @@
 			<key>cellClass</key>
 			<string>GcSocialCell</string>
 			<key>userName</key>
-			<string>NightwindDev</string>
+			<string>MusicPlayerColor</string>
 			<key>subtitle</key>
 			<string>Open Source on GitHub</string>
 			<key>accessoryType</key>
 			<integer>1</integer>
 			<key>pfpURL</key>
-			<string>https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon%403.png</string>
+			<string>https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true</string>
 			<key>URL</key>
 			<string>https://github.com/NightwindDev/MusicPlayerColor</string>
 		</dict>
