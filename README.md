@@ -2,7 +2,7 @@
 
 # MusicPlayerColor
 ### Compatible with iOS 16.0+.
-Colorize the music player on the lockscreen on iOS 16!
+Colorize the music player on iOS 16!
 
 #### License
 This project is licensed under [MIT](LICENSE).

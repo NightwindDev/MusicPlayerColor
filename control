@@ -2,7 +2,7 @@ Package: com.nightwind.musicplayercolor
 Name: MusicPlayerColor
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Colorize the music player on the lockscreen on iOS 16!
+Description: Colorize the music player on iOS 16!
 Maintainer: Nightwind
 Author: Nightwind
 Section: Tweaks
